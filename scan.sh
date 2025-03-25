@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 if [ "$#" -ne 3 ]; then
   echo "Usage: $0 <IP_ADDRESS> <START_PORT> <END_PORT>"
