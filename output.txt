@@ -1,0 +1,3 @@
+Scanning ports 20 to 25 on 127.0.0.1...
+Port 22 is OPEN
+Scan complete.
